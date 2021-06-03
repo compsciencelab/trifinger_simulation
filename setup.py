@@ -44,7 +44,7 @@ setup(
     license="BSD 3-Clause",
     install_requires=[
         "numpy >=1.19.1",
-        "pin >=2.4.7",  # pinocchio
+  #      "pin >=2.4.7",  # pinocchio
         "pybullet >=3.0.8",
         "gym >=0.18.0",
         "opencv-python >=4.2.0.34",
